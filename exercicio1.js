@@ -1,1 +1,1 @@
-let cor ='verde';
+var cor ='verde';
